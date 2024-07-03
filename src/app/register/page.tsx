@@ -15,7 +15,6 @@ const RegisterPage = () => {
 
 	const onSubmit=async(values:FieldValues)=>{
 
-		console.log(values);
 		if (values.password.length < 6) {
 			toast.error("Password should be 6 characters or more.");
 			return;

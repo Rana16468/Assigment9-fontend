@@ -12,14 +12,13 @@ const About = () => {
               About Us
             </h1>
             <p className="font-normal text-base leading-6 text-gray-600 ">
-              It is a long established fact that a reader will be distracted by
-              the readable content of a page when looking at its layout. The
-              point of using Lorem Ipsum.In the first place we have granted to
-              God, and by this our present charter confirmed for us and our
-              heirs forever that the English Church shall be free, and shall
-              have her rights entire, and her liberties inviolate; and we will
-              that it be thus observed; which is apparent from
+            The purpose and mission of a pet adoption application are fundamental in promoting responsible pet ownership, finding forever homes for animals in need, and fostering a community that cares for animal welfare. Below is a comprehensive breakdown of the purpose and mission of such an application:
             </p>
+            <p>Facilitate Adoptions: Streamline the process of finding and adopting pets by providing detailed information about available animals, their backgrounds, and their needs.
+Promote Animal Welfare: Ensure that pets find loving and permanent homes, reducing the number of animals in shelters and preventing euthanasia.
+Educate Potential Owners: Provide educational resources and support for potential adopters to make informed decisions about pet ownership.
+Enhance Connectivity: Connect animal shelters, rescue organizations, and potential adopters through a user-friendly platform.
+Increase Visibility: Raise awareness about animals available for adoption and the benefits of adopting rather than buying pets.</p>
           </div>
           <div className="w-full lg:w-8/12 ">
             <Image
@@ -127,7 +126,57 @@ const About = () => {
               </div>
             </div>
           </div>
+
+          
         </div>
+
+        <div className="container mx-auto p-6">
+      <div className="text-center mb-10">
+        <h1 className="text-4xl font-bold mb-4">About Us</h1>
+        <p className="text-lg text-gray-600">
+          Welcome to our pet adoption platform! Our mission is to find loving homes for pets in need and to promote responsible pet ownership.
+        </p>
+      </div>
+
+      <div className="grid md:grid-cols-2 gap-10 mb-10">
+        <div>
+          <h2 className="text-2xl font-bold mb-4">Contact Information</h2>
+          <p className="text-lg text-gray-600">Feel free to reach out to us at any time. We are here to help!</p>
+          <ul className="mt-4">
+            <li className="text-lg text-gray-800"><strong>Address:</strong> 1234 Pet Lane, Animal City, PA 12345</li>
+            <li className="text-lg text-gray-800"><strong>Phone:</strong> (123) 456-7890</li>
+            <li className="text-lg text-gray-800"><strong>Email:</strong> contact@petadoption.com</li>
+          </ul>
+        </div>
+
+        <div>
+          <h2 className="text-2xl font-bold mb-4">Follow Us</h2>
+          <p className="text-lg text-gray-600">Stay connected with us through our social media channels:</p>
+          <ul className="mt-4 flex space-x-4">
+            <li>
+              <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcbrL7XF9MGlcDaUzbNM407aoGtrDNe49BaAsyUd7-6GckuTYf8vGx9I74ZaoaaAoenyM&usqp=CAU" target="_blank" rel="noopener noreferrer" className="text-gray-800 hover:text-blue-600">
+                <Image src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcbrL7XF9MGlcDaUzbNM407aoGtrDNe49BaAsyUd7-6GckuTYf8vGx9I74ZaoaaAoenyM&usqp=CAU" alt="Facebook" width={40} height={40} />
+              </a>
+            </li>
+            <li>
+              <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGqIS1Apxx_weDb9mrVdjILbLs7Fs5IV6oVA&s" target="_blank" rel="noopener noreferrer" className="text-gray-800 hover:text-blue-400">
+                <Image src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGqIS1Apxx_weDb9mrVdjILbLs7Fs5IV6oVA&s" alt="Twitter" width={40} height={40} />
+              </a>
+            </li>
+            <li>
+              <a href="https://www.instagram.com" target="_blank" rel="noopener noreferrer" className="text-gray-800 hover:text-pink-600">
+                <Image src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxg_sNYlKS9DD4fB1y308IU4PgW0c_ovRRyA&s" alt="Instagram" width={40} height={40} />
+              </a>
+            </li>
+            <li>
+              <a href="https://www.linkedin.com" target="_blank" rel="noopener noreferrer" className="text-gray-800 hover:text-blue-700">
+                <Image src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxg_sNYlKS9DD4fB1y308IU4PgW0c_ovRRyA&s" alt="LinkedIn" width={40} height={40} />
+              </a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
       </div>
         </>
     );

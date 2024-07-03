@@ -67,7 +67,9 @@ const Navbar = () => {
        
       </ul>
     </div>
-    <a className="btn btn-ghost text-xl">daisyUI</a>
+    <Image src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLkNs_q-8DSZJkK-19clLgd1NowvAh8fZe_z-1ATBUcRpSQZRXXmZ_W-VzZLxZ0xAQzPA&usqp=CAU" alt="" width={50} height={50}></Image>
+    <a className="btn btn-ghost text-xl">Pet Adoptation</a>
+
   </div>
   <div className="navbar-center hidden lg:flex">
     <ul className="menu menu-horizontal px-1">

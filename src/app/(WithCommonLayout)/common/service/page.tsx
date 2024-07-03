@@ -11,70 +11,70 @@ const Service = () => {
     {
       id: 1,
       serviceIcon: <RiHome8Line className="text-4xl text-white" />,
-      serviceName: "Home Design",
+      serviceName: "Cat Addoption",
       description:
         " There are many variations of passages of Lorem Ipsum availablebut the majority have suffered alteration in some form.",
     },
     {
       id: 2,
       serviceIcon: <HiOutlineOfficeBuilding className="text-5xl text-white" />,
-      serviceName: "Mordan Design",
+      serviceName: "Dog Adoptation",
       description:
         " There are many variations of passages of Lorem Ipsum availablebut the majority have suffered alteration in some form.",
     },
     {
       id: 3,
       serviceIcon: <FcShop className="text-5xl " />,
-      serviceName: " Shop Interiror Design",
+      serviceName: "Adoption Request",
       description:
         " There are many variations of passages of Lorem Ipsum availablebut the majority have suffered alteration in some form.",
     },
     {
       id: 4,
       serviceIcon: <FcShop className="text-5xl " />,
-      serviceName: "Community Center Interiror Design",
+      serviceName: "Pet Health  Care Services",
       description:
         " There are many variations of passages of Lorem Ipsum availablebut the majority have suffered alteration in some form.",
     },
     {
       id: 5,
       serviceIcon: <LiaUniversitySolid className="text-5xl text-white" />,
-      serviceName: "University Interior Design",
+      serviceName: "Pet Vachanacation",
       description:
         " There are many variations of passages of Lorem Ipsum availablebut the majority have suffered alteration in some form.",
     },
     {
       id: 6,
       serviceIcon: <RiCommunityFill className="text-5xl text-white" />,
-      serviceName: "Community Center Interior Design",
+      serviceName: "Pet Child Care",
       description:
         " There are many variations of passages of Lorem Ipsum availablebut the majority have suffered alteration in some form.",
     },
     {
       id: 7,
       serviceIcon: <RiCommunityFill className="text-5xl text-white" />,
-      serviceName: "Community Center Interior Design",
+      serviceName: "Pet All Activity Checking",
       description:
         " There are many variations of passages of Lorem Ipsum availablebut the majority have suffered alteration in some form.",
     },
     {
       id: 8,
       serviceIcon: <RiCommunityFill className="text-5xl text-white" />,
-      serviceName: "Community Center Interior Design",
+      serviceName: "Child Pet Adoption",
       description:
         " There are many variations of passages of Lorem Ipsum availablebut the majority have suffered alteration in some form.",
     },
     {
       id: 9,
       serviceIcon: <RiCommunityFill className="text-5xl text-white" />,
-      serviceName: "Community Center Interior Design",
+      serviceName: "Pet Analysis",
       description:
         " There are many variations of passages of Lorem Ipsum availablebut the majority have suffered alteration in some form.",
     },
     {
       id: 10,
       serviceIcon: <RiCommunityFill className="text-5xl text-white" />,
-      serviceName: "Community Center Interior Design",
+      serviceName: "Pet Daily Food Service",
       description:
         " There are many variations of passages of Lorem Ipsum availablebut the majority have suffered alteration in some form.",
     },
