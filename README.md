@@ -1,5 +1,16 @@
 
+### Project Overview : 
 
+# Technologies Used:
+
+# Next.js: Framework for server-rendered React applications.
+# Redux: State management library for managing and centralizing application state.
+# ImageBB: Service for image uploading and hosting.
+# TypeScript: Superset of JavaScript that adds static typing.
+# Tailwind CSS: Utility-first CSS framework for styling.
+# DaisyUI: UI component library for Tailwind CS
+## Project Description:
+# my pet adoption project aims to create a platform where users can view, upload, and manage pet adoption listings. The project leverages a modern web stack to provide a seamless and interactive user experience. There Two Account Section in My Project ,Like User Account Section And Admin Account Seaction .
 ## Getting Started
 
 ##  web site overview : https://drive.google.com/file/d/1z-VSeU5dHMZ3sfpYMoB96qKVrkNFR1cH/view?usp=sharing
@@ -37,11 +48,4 @@
 
 
 
-  ###   Technology
-  # 1 Next Js
-  # 2 Redux
-  # 3 Image BB (Image Uplode)
-  # 4 Type Script 
-  # 5 Tailwind Css
-  # 6 daisyui
-
+  
